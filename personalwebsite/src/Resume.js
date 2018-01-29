@@ -26,3 +26,7 @@ class Resume extends Component {
 
 
 export default Resume;
+
+
+// Links to LinkedIn, GitHub, Social Media
+// Logo Links (that highlight) of skillset 

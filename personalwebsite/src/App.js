@@ -22,3 +22,6 @@ class App extends Component {
 }
 
 export default App;
+
+
+//Live changing skillset on homepage.
